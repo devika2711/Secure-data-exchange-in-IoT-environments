@@ -1,0 +1,4 @@
+Device Security
+Hardware Hardening: Ensuring that physical devices are tamper-proof and resistant to direct attacks.
+Secure Booting: Devices should only boot using software that is signed by the manufacturer, ensuring that only trusted firmware and software are loaded.
+Data Encryption: Encrypting data stored on the device as well as data in transit to protect sensitive information from interception and tampering.
