@@ -33,4 +33,3 @@ public static byte[] KeyGeneration(String user[]) {
 	return bi.toByteArray();
 }
 }
-
