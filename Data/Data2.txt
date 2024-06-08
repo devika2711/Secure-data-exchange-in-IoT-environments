@@ -1,0 +1,4 @@
+Network Security
+Secure Communication Protocols: Implementing protocols such as SSL/TLS for encrypted communication between devices and servers.
+Network Segmentation: Separating IoT devices into different network zones to limit the spread of potential attacks.
+Firewalls and Intrusion Detection Systems (IDS): Protecting the network perimeter and monitoring for suspicious activities.
